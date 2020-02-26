@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/recyclerview_row_yukAdiText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="yukAdi text"
+        android:paddingLeft="7dp"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"/>
+
+    <TextView
+        android:id="@+id/recyclerview_row_yukCesidiText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="yukCesidi text"
+        android:paddingLeft="7dp"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"/>
+
+    <TextView
+        android:id="@+id/recyclerview_row_parcaYukseText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="parcaYukse text"
+        android:paddingLeft="7dp"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"/>
+
+    <TextView
+        android:id="@+id/recyclerview_row_yonText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="yon text"
+        android:paddingLeft="7dp"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"/>
+
+    <TextView
+        android:id="@+id/recyclerview_row_fiyatText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fiyat text"
+        android:paddingLeft="7dp"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"/>
+
+    <TextView
+        android:id="@+id/recyclerview_row_telText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tel text"
+        android:paddingLeft="7dp"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"/>
+</LinearLayout>

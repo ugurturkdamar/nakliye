@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166295213997",
+    "firebase_url": "https://nakliye-2e13e.firebaseio.com",
+    "project_id": "nakliye-2e13e",
+    "storage_bucket": "nakliye-2e13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166295213997:android:5533d1b10ce453cc5e3324",
+        "android_client_info": {
+          "package_name": "com.example.nakliyeson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166295213997-da60hqnfciul1lh5tblvos9afjr3aahk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmpveeWR5UvOl-MOAjY0FGMIp7ttUvJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166295213997-da60hqnfciul1lh5tblvos9afjr3aahk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
